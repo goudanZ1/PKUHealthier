@@ -10,4 +10,20 @@
 
 > 致敬北大树洞的前身 PKU Helper
 
-Originally forked from [https://github.com/yyttt6/PKUHealthier](https://github.com/yyttt6/PKUHealthier)
+![signup](README.assets/signup.png)
+
+![home](README.assets/home.png)
+
+![recommend](README.assets/recommend.png)
+
+![menu1](README.assets/menu1.png)
+
+![menu2](README.assets/menu2.png)
+
+![sports](README.assets/sports.png)
+
+![records](README.assets/records.png)
+
+![achievementwall1](README.assets/achievementwall1.png)
+
+![achievementwall2](README.assets/achievementwall2.png)
